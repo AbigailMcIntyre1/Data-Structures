@@ -1,2 +1,0 @@
-C:\Users\iamma\OneDrive\Desktop\Classes Fall 2021\Data Structures\Project 2 - Postfix calculator\Debug\Project 2 - Postfix calculator.exe
-C:\Users\iamma\OneDrive\Desktop\Classes Fall 2021\Data Structures\Project 2 - Postfix calculator\Debug\Project 2 - Postfix calculator.pdb
